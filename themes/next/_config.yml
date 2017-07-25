@@ -89,8 +89,9 @@ scheme: Muse
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  GitHub: https://github.com/lpwang
+  Weibo: http://weibo.com/u/1957720150?topnav=1&wvr=6&topsug=1
 
 # Social Links Icons
 # Icon Mapping:
@@ -101,9 +102,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: https://github.com/lpwang
+  GitHub: github
   #Twitter: twitter
-  Weibo: http://weibo.com/1957720150/profile?topnav=1&wvr=6
+  Weibo: weibo
 
 # Blog rolls
 #links_title: Links
@@ -115,7 +116,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: http://tvax4.sinaimg.cn/crop.85.218.533.533.180/74b07056ly8fgglakg43yj20hs0qogm1.jpg
 
 # Table Of Contents in the Sidebar
 toc:
