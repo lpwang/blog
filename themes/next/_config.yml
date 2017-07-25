@@ -47,8 +47,8 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
-  #about: /about/
+  categories: /categories/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -101,9 +101,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: https://github.com/lpwang
+  #Twitter: twitter
+  Weibo: http://weibo.com/1957720150/profile?topnav=1&wvr=6
 
 # Blog rolls
 #links_title: Links
@@ -264,7 +264,7 @@ font:
 
   # Font settings for Logo
   # Fallback to `global` font settings.
-  # The `size` option use `px` as unit
+  # The `size` option use `px` as unitb
   logo:
     external: true
     family:
