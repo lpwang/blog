@@ -2,7 +2,7 @@
 title: 浅谈tcp协议第一篇
 date: 2017-07-28 17:39:07
 categories: tcp
-tags: tcp java
+tags: tcp
 ---
 
 ## 源起
